@@ -17,3 +17,15 @@ And here...
 # All Project Ideas Down Here
 
 Add your project ideas after this sentence. 
+
+# Project Idea: Co-Op Roleplaying-Game (akin to Borderlands, WoW, and D&D)
+
+At some point, everyone has probably played a video game to some extent. Whether that’s playing Mario Kart on the couch with the kids you had to babysit or running through a World of Warcraft raid with twenty friends in your guild, we all have some kind of memorable experience with gaming. Regardless of who you are, there is probably a part of gaming that draws you in. It might be a strongly written story in a single-player game, the endless hours of fun you can have in a multiplayer game, or the unique or realistic art design.
+
+Ideally, I would be wanting to develop some sort of roleplaying game (RPG) that takes its influence from Borderlands, World of Warcraft, and Dungeons and Dragons. Alternatively, multiplayer party games also seem to be a popular idea, so working on a something akin to Mario Party (shoutout to Douglas) or Quiplash (shoutout to Nurzhan) would also be awesome. The only limits on game design is your imagination and to an extent, the level and skillset of your character (ha it’s a gaming joke, do you get it?).
+
+Character Bonuses:
+Achievements, Multiplayer, Simplicity, Free-To-Play
+
+Quest Items:
+Unity (or some other language for games), Documentation and Design Manual, passion for gaming
